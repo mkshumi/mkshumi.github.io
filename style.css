@@ -2,3 +2,12 @@
   color:blue;
   font-size: 20px;
 }
+.w300 {
+  width: 300px;
+}
+.red4 {
+  color: red;
+}
+body {
+  background-color: green;
+}
